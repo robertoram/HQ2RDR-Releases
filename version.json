@@ -1,5 +1,27 @@
 {
-  "version": "1.5.1-beta.1",
-  "url": "https://github.com/robertoram/HQ2RDR-Releases/releases",
-  "notes": "HQ2RDR v1.5.1-beta.1"
+  "beta": {
+    "version": "1.5.1-beta.1",
+    "url": "https://github.com/robertoram/HQ2RDR-Releases/releases",
+    "notes": "HQ2RDR v1.5.1-beta.1"
+  },
+  "": {
+    "version": "1.5.1-beta.3",
+    "url": "https://github.com/robertoram/HQ2RDR-Releases/releases",
+    "notes": "HQ2RDR v1.5.1-beta.3",
+    "channel": "",
+    "assets": {
+      "windows_installer": {
+        "name": "HQ2RDR_Setup_v1.5.1-beta.3.exe",
+        "url": "https://github.com/robertoram/HQ2RDR-Releases/releases/download/v1.5.1-beta.3/HQ2RDR_Setup_v1.5.1-beta.3.exe"
+      },
+      "windows_portable": {
+        "name": "HQ2RDR_Windows_v1.5.1-beta.3.zip",
+        "url": "https://github.com/robertoram/HQ2RDR-Releases/releases/download/v1.5.1-beta.3/HQ2RDR_Windows_v1.5.1-beta.3.zip"
+      },
+      "linux_zip": {
+        "name": "HQ2RDR_Linux_v1.5.1-beta.3.zip",
+        "url": "https://github.com/robertoram/HQ2RDR-Releases/releases/download/v1.5.1-beta.3/HQ2RDR_Linux_v1.5.1-beta.3.zip"
+      }
+    }
+  }
 }
